@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ================================================================================
 Hybrid ML-Based Dynamic Stop-Loss Approach for 1-Minute ES Futures Trading
 ================================================================================
@@ -354,3 +354,4 @@ This software is provided for educational purposes only. Trading involves substa
 
 For technical issues or questions about the implementation, please refer to the code comments and docstrings within `main.py`.
 >>>>>>> 7a4082f (Add ML trading system files: algorithm.py, README.md, requirements.txt)
+
