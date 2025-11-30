@@ -1,15 +1,7 @@
-Here is a clean, professional, and merged version of the README. I have synthesized the practical instructions from the first section with the architectural depth of the second section to create a comprehensive documentation file.
 
-You can copy the code block below directly into your `README.md` file.
-
------
-
-````markdown
 # Hybrid ML-Based Dynamic Stop-Loss System for ES Futures
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Active-success)
+
 
 ##  Project Overview
 
@@ -150,3 +142,4 @@ You can adjust the following parameters inside `algorithm.py`:
 
 ```
 ```
+
